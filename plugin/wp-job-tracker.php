@@ -16,3 +16,4 @@ add_action('admin_notices', function () {
 
 require_once plugin_dir_path(__FILE__) . 'includes/post-types.php';
 require_once plugin_dir_path(__FILE__) . 'includes/meta-boxes.php';
+require_once plugin_dir_path(__FILE__) . 'admin/list-columns.php';
