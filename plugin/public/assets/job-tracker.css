@@ -1,0 +1,51 @@
+.wpjt-table-wrapper {
+    overflow-x: auto;
+    margin-top: 1rem;
+}
+
+.wpjt-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.wpjt-table th,
+.wpjt-table td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+.wpjt-table th {
+    background: #f5f5f5;
+    font-weight: 600;
+}
+
+.wpjt-status {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    border-radius: 999px;
+    background: #f0f0f0;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+.wpjt-status-applied {
+    background: #e8f0fe;
+}
+
+.wpjt-status-interviewing {
+    background: #fff4d6;
+}
+
+.wpjt-status-offer {
+    background: #e6f4ea;
+}
+
+.wpjt-status-rejected {
+    background: #fdecea;
+}
+
+.wpjt-status-interested {
+    background: #eeeeee;
+}
