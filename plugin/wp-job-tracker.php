@@ -19,3 +19,4 @@ require_once plugin_dir_path(__FILE__) . 'includes/meta-boxes.php';
 require_once plugin_dir_path(__FILE__) . 'admin/list-columns.php';
 require_once plugin_dir_path(__FILE__) . 'public/shortcodes.php';
 require_once plugin_dir_path(__FILE__) . 'admin/dashboard-widget.php';
+require_once plugin_dir_path(__FILE__) . 'admin/csv-export.php';
